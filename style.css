@@ -13,14 +13,18 @@
             height: 100%;
             margin: 10%;
             background: linear-gradient
-            text-align: center;
+            
         }
+    
 
     .heading{
         justify-content: center;
         text-align: center;
         background-color: aliceblue;
-        margin: 100px;
+        border: 10px;
+        margin: 150px;
+        height: 500px;
+        padding: 20px;
   
     }    
 
