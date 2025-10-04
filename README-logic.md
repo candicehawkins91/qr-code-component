@@ -12,3 +12,9 @@ I also found what I wanted my end product to look like.
 6. Added to read me again
 
 7. Wrapped h1 in a div and edit read me
+
+8. Started on CSS
+
+9. Playing with my CSS
+
+10. Update my read me
